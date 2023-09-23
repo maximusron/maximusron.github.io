@@ -1,7 +1,6 @@
 # Site settings
 title:          BlogPost - Aaron Jomy
 description:    "Documenting my journey exploring science and technology"
-baseurl:        "/blog"
 url:            "https://maximusron.github.io"
 
 # Google Analytics
